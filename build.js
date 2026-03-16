@@ -9,6 +9,12 @@ const TEMPLATES_DIR = 'templates';
 const STATIC_DIR = 'static';
 const DIST_DIR = 'dist';
 
+// Format Date objects to YYYY-MM-DD strings (gray-matter parses YAML dates into Date objects)
+function formatDate(d) {
+  if (d instanceof Date) return d.toISOString().split('T')[0];
+  return String(d || '');
+}
+
 // --- Section extraction ---
 
 function extractSections(markdownBody) {
@@ -141,7 +147,7 @@ function build() {
 
     const html = Mustache.render(sessionTemplate, {
       title: session.frontmatter.title,
-      date: session.frontmatter.date,
+      date: formatDate(session.frontmatter.date),
       session_id: session.frontmatter.session_id,
       participants: session.frontmatter.participants,
       status: session.frontmatter.status,
@@ -164,7 +170,7 @@ function build() {
   const indexHtml = Mustache.render(indexTemplate, {
     sessions: sessions.map(s => ({
       title: s.frontmatter.title,
-      date: s.frontmatter.date,
+      date: formatDate(s.frontmatter.date),
       participants: s.frontmatter.participants,
       status: s.frontmatter.status,
       slug: s.slug,
