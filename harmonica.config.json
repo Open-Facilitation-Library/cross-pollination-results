@@ -1,7 +1,7 @@
 {
   "sync": {
     "search": ["Cross-Pollination", "Donation Collective Choice"],
-    "minParticipants": 1,
+    "minParticipants": 5,
     "requireSummary": true
   },
   "output": {

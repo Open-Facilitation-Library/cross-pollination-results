@@ -2,7 +2,7 @@
 title: "P1 Donation Collective Choice"
 date: 2026-03-13
 session_id: hst_dbf516d28d66
-participants: 50
+participants: 51
 status: active
 goal: "In this study, you will take part in a collective decision about how to allocate a charitable donation. You will be asked to decide which charity should receive a $10 donation.
 Several charities are working on different approaches to addressing social problems. Each of them uses donations in different ways and focuses on different types of impact.
@@ -878,4 +878,17 @@ trees are second for me because honestly urban farming and green spaces tie into
 > ok so from a logistics standpoint, food pantries are incredibly efficient. like at the soup kitchen we can stretch donations really far — $10 can feed multiple people a real meal. the cost per serving is crazy low if the pantry has good relationships with suppliers and food rescue programs. 
 
 plus its immediate impact. someone walks in hungry, they walk out with food. no waiting list, no appointments, no paperwork. thats huge for people in crisis. and a good pantry network means they're coordinating across neighborhoods so theres less waste and better coverage. ive seen the difference between a well-run network and a bunch of independent pantries doing their own thing
+
+### Participant 54
+
+> User shared the following context:
+
+
+> I want to support the community food pantry network
+
+> Totally - I would support community food pantry -> Community Health Clinic -> Animal rescue shelter -> Urban Tree Initiative. 
+
+My reasoning is that the first priority for me is also supporting folks basic needs for food and health needs and in NYC specifically these needs are often very difficult to meet for a significant amount of the population. (Healthcare is extremely expensive and often complicated to navigate - sometimes the smaller clinics are important for this). Then I would prioritize anima rescue just because these animals can sometimes spread more disease and/or become a danger to many other folks so ensuring that the streets stay safe is important. And finally Urban Tree initiative! I would support this alongside community health, but I think there are actually a good amount of trees and parks in NYC (at least where I am at) so I'm not thinking of it as something that is underinvested in
+
+> Food insecurity creates health issues all the time - lack of nutrients, bodily stress, etc. So I guess I'm thinking about ensuring that folks are able to rely on these food supports first because that is one of the best medicines to have. Less food means more visits to the health clinic, we first need to be supporting nutritional needs and then visits to the clinic may go down anyway.
 

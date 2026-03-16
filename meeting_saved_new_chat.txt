@@ -1,0 +1,332 @@
+2026-03-16 17:11:42 From Adam Zable to Everyone:
+	How do we begin?
+	
+2026-03-16 17:11:56 From Elianna DeSota to Everyone:
+	Just jump here! https://maria-milosh.github.io/demo_landing.html
+	
+2026-03-16 17:12:37 From Maria Milosh to Everyone:
+	https://app.harmonica.chat/chat?s=hst_f3f99c5cc524
+	Joseph, Renad Baomar:❤️
+	
+2026-03-16 17:15:40 From Ann to Everyone:
+	I am on the ranking page and have to flip back and forth to the names of the charities - is there a shortcut like a letter or number for each charity?
+	
+2026-03-16 17:16:34 From Raluca Pavel to Everyone:
+	That was my piece of feedback as well
+	
+2026-03-16 17:17:05 From Adam Zable to Everyone:
+	I think if you tell the AI what you want to call them it would probably work
+	Elianna DeSota, Peiyu Chen, Artem Zhiganov:👍
+	
+2026-03-16 17:17:20 From Raluca Pavel to Everyone:
+	Good point. It worked so far for me, so yes
+	Elianna DeSota:👍
+	
+2026-03-16 17:17:42 From Raluca Pavel to Everyone:
+	I just think it would be more accessible for those who don’t usually work with these kinds of systems
+	
+2026-03-16 17:18:13 From Ann to Everyone:
+	It does ask a clarifying question, but the answer is not obvious since it also asks for a second input in the same box.
+	
+2026-03-16 17:18:46 From Elianna DeSota to Everyone:
+	Replying to "I just think it would be more accessible for those...":
+	Totally - I’ve put your suggestion in the notes!
+	
+2026-03-16 17:19:33 From Artem Zhiganov to Elianna DeSota (direct message):
+	nice jazz!
+	
+2026-03-16 17:19:42 From Elianna DeSota to Everyone:
+	I’m taking notes of people’s thoughts here btw :) https://docs.google.com/document/d/1n1Req9oaV19Pcydasx2_cC-hDQV87lrsx4-xgVOmh-I/edit?tab=t.0
+	Maria Milosh, Artem Zhiganov:👍
+	
+2026-03-16 17:19:58 From Elianna DeSota to Artem Zhiganov (direct message):
+	Hehe yes - tis my focus thing :)
+	
+2026-03-16 17:20:05 From Maria Milosh to Everyone:
+	Replying to "I’m taking notes of people’s thoughts here btw :) ...":
+	thanks, that’s super helpful!
+	
+2026-03-16 17:21:07 From Elianna DeSota to Everyone:
+	Feel free to indicate here whenever you’re done! And when we’ve got most people back we can begin the discussion :)
+	
+2026-03-16 17:21:15 From Artem Zhiganov to Elianna DeSota (direct message):
+	another banger!
+	Elianna DeSota:❤️
+	
+2026-03-16 17:21:41 From Maria Milosh to Everyone:
+	i’m seeing one person has completed the session, and 16 more to go!
+	Elianna DeSota:🔥
+	
+2026-03-16 17:21:45 From Artem Zhiganov to Elianna DeSota (direct message):
+	do you compile spotify playlists?
+	
+2026-03-16 17:23:44 From Adam Zable to Everyone:
+	What I'm interested in about this process is how the system reinterprets our ideas to make them 'neutral'
+	Elianna DeSota:🔥
+	
+2026-03-16 17:25:38 From Renad Baomar to Everyone:
+	I completed the session  😁!!
+	Alex Soto:✅
+	
+2026-03-16 17:27:42 From Adam Zable to Everyone:
+	In future sessions it might be interesting to include examples of idea-neutralized sentence pairings in the instructions section, so people can see how it works
+	Artem Zhiganov:💡
+	
+2026-03-16 17:28:45 From Adam Zable to Everyone:
+	Where are people located? I'm in germany
+	
+2026-03-16 17:28:53 From Alex Soto to Everyone:
+	Replying to "Where are people located? I'm in germany":
+	Mexico
+	
+2026-03-16 17:28:55 From Renad Baomar to Everyone:
+	Replying to "Where are people located? I'm in germany":
+	Oman 🇴🇲
+	
+2026-03-16 17:29:09 From Raluca Pavel to Everyone:
+	Replying to "Where are people located? I'm in germany":
+	Chicago, US
+	
+2026-03-16 17:29:22 From Rob Gordon to Everyone:
+	Replying to "Where are people located? I'm in germany":
+	Montreal, CA
+	
+2026-03-16 17:29:22 From Joseph to Everyone:
+	Replying to "Where are people located? I'm in germany":
+	calling in from south africa now!
+	
+2026-03-16 17:29:25 From Renad Baomar to Everyone:
+	Replying to "Where are people located? I'm in germany":
+	Oman is located in Middle East
+	
+2026-03-16 17:29:33 From Artem Zhiganov to Elianna DeSota (direct message):
+	btw I vibecoded this little thing for listening parties https://github.com/zhiganov/navidrome-jam
+	Elianna DeSota:❤️
+	
+2026-03-16 17:29:44 From Oscar Duys to Everyone:
+	Replying to "Where are people located? I'm in germany":
+	South Africa 🇿🇦
+	
+2026-03-16 17:29:56 From Artem Zhiganov to Everyone:
+	Replying to "Where are people located? I'm in germany":
+	Serbia
+	
+2026-03-16 17:30:41 From Ann to Everyone:
+	The value I see here so far is in finding folks who I think bring more perspective but did not fully articulate their full experience and expertise in the chat boxes.  I'd want to do a paired or trio with them.
+	Artem Zhiganov:💡
+	
+2026-03-16 17:31:18 From Jez to Everyone:
+	Replying to "Where are people located? I'm in germany":
+	London
+	
+2026-03-16 17:31:29 From Elianna DeSota to Artem Zhiganov (direct message):
+	Replying to "do you compile spotify playlists?":
+	Casually - but not suppppeeerr intentionally XD
+	Artem Zhiganov:👍
+	
+2026-03-16 17:31:52 From Iris to Everyone:
+	Replying to "Where are people located? I'm in germany":
+	Chicago
+	
+2026-03-16 17:31:59 From Elianna DeSota to Artem Zhiganov (direct message):
+	OHHH so cooolll
+	
+2026-03-16 17:32:23 From Adam Zable to Everyone:
+	pair this with a liquid voting process where we can vote for the people who give the most interesting ideas to make the decision
+	
+2026-03-16 17:32:28 From Robert to Everyone:
+	Replying to "Where are people located? I'm in germany":
+	Sweden
+	
+2026-03-16 17:32:47 From fybach to Everyone:
+	Replying to "Where are people located? I'm in germany":
+	Switzerland 🙂
+	
+2026-03-16 17:33:42 From Adam Zable to Everyone:
+	i was influenced and changed my vote
+	Artem Zhiganov:🥳
+	
+2026-03-16 17:33:48 From fybach to Everyone:
+	Did anyone experience unclarity on how to complete the survey, i.e. when the interview would be terminated - or if it was already completed?
+	
+2026-03-16 17:33:54 From Alex (aoppo) to Everyone:
+	Replying to "Where are people located? I'm in germany":
+	Italy
+	
+2026-03-16 17:34:31 From Adam Zable to Everyone:
+	Replying to "Did anyone experience unclarity on how to complete...":
+	maybe for a moment but then I answered another question and it ended lol
+	
+2026-03-16 17:34:59 From sbaez to Everyone:
+	Replying to "Did anyone experience unclarity on how to complete...":
+	I was unsure when it would end tbh
+	
+2026-03-16 17:35:18 From Ann to Everyone:
+	Replying to "Did anyone experience unclarity on how to complete...":
+	Me also, a progress bar would be nice.
+	Adam Zable, Iris, Artem Zhiganov, Peiyu Chen:👍
+	
+2026-03-16 17:36:44 From Raluca Pavel to Everyone:
+	I think in most cases, people will vote on issues in their “communities” and would be more invested in the decision-making. When it comes to knowing how a donation is spent, it is difficult for us to really know that because most non-profits do not mention this. They have so many expenses and the money probably goes to a pool (as an example).
+	
+2026-03-16 17:37:02 From Iris to Everyone:
+	Replying to "Did anyone experience unclarity on how to complete...":
+	I agree. I thought at the beginning the coversation would go throught the reason for each options, but it then get back and forth between different options and the I lost sense of when it will end
+	
+2026-03-16 17:37:40 From Elianna DeSota to Everyone:
+	Replying to "I think in most cases, people will vote on issues ...":
+	Yah agree - so many of these things are unclear. Makes me think we should be pushing more non-profits to be clear about where the donations are going tho…
+	
+2026-03-16 17:37:58 From Adam Zable to Everyone:
+	but it's not about the values of the organization doing the decision- it's about our own values and discussing our values with each other
+	Raluca Pavel, Elianna DeSota, Iris:👍
+	Artem Zhiganov:💯
+	
+2026-03-16 17:38:09 From Ann to Everyone:
+	Replying to "I think in most cases, people will vote on issues ...":
+	I'd like to see a few different cases, this one does have these specific problems so to learn the tool we'd want a couple of others that have different 'stakes'.
+	
+2026-03-16 17:38:29 From Raluca Pavel to Everyone:
+	Replying to "but it's not about the values of the organization ...":
+	I agree…we want to have the diverse values and experiences to influence others, or not
+	
+2026-03-16 17:38:33 From Adam Zable to Everyone:
+	and sometimes the decision is not complicated- there was not a split the decision button because the decision was a simple one.
+	
+2026-03-16 17:39:04 From Renad Baomar to Everyone:
+	Replying to "but it's not about the values of the organization ...":
+	💯💯
+	
+2026-03-16 17:39:17 From Jez to Everyone:
+	Replying to "Did anyone experience unclarity on how to complete...":
+	Yeah I wasn’t sure when it would end, and didn’t feel like the conversation developed or progressed towards deeper understanding
+	
+2026-03-16 17:39:31 From Adam Zable to Everyone:
+	it's really just about whether the purpose of the session is to test the tool or to make a good decision
+	
+2026-03-16 17:39:52 From Raluca Pavel to Everyone:
+	Replying to "it's really just about whether the purpose of the ...":
+	Probably both
+	
+2026-03-16 17:40:05 From Artem Zhiganov to Everyone:
+	Replying to "it's really just about whether the purpose of the ...":
+	I think the purpose is to see whether the tool can change anyone's perspectives / rankings
+	Adam Zable:👍
+	Alex Soto:👍🏼
+	
+2026-03-16 17:40:16 From sbaez to Everyone:
+	Replying to "Did anyone experience unclarity on how to complete...":
+	I assume that if you finish early then you are in disadvantage because there less other opinions to the bot can bring up
+	
+2026-03-16 17:40:46 From Adam Zable to Everyone:
+	Replying to "it's really just about whether the purpose of the ...":
+	i can tell you definitively that yes it can
+	Raluca Pavel:👍
+	Artem Zhiganov:🥳
+	
+2026-03-16 17:40:53 From Raluca Pavel to Everyone:
+	Also, I am curious: which organization got the most votes and did anyone change their initial ranking because of the deliberative process?
+	Adam Zable, sbaez:✋
+	
+2026-03-16 17:42:16 From sbaez to Everyone:
+	I was wondering if the bit was actually giving me a correct summary of other people’s opinion or if it had added anything of it’s own
+	Adam Zable:👍
+	
+2026-03-16 17:43:01 From Ann to Everyone:
+	I agree Jez!  I tried to make my intensity of thought clear with stronger language, but did not get corresponding strong arguements in return.
+	
+2026-03-16 17:43:07 From Artem Zhiganov to Everyone:
+	Replying to "I was wondering if the bit was actually giving me ...":
+	when it said "Someone in your group shared the following idea" it was summarizing one of other participants
+	
+2026-03-16 17:43:42 From Renad Baomar to Everyone:
+	Renadbaomar5@gmail.com
+	
+	https://www.instagram.com/re_nad7154?igsh=dWR3OWg3MjBwam9k&utm_source=qr
+	
+2026-03-16 17:43:43 From sbaez to Everyone:
+	Replying to "I was wondering if the bit was actually giving me ...":
+	It was supposed to do that, but did it do it well? I’m just skeptical, and some direct quotes would improve my trust
+	
+2026-03-16 17:43:46 From Joseph to Everyone:
+	I’m wondering how the system decides which opinions from others to surface?
+	
+	and also could there be alternative formats to showing the other opinions that are more efficient? e.g. showing a visualization of peoples opinions with their justifications
+	
+2026-03-16 17:44:18 From Iris to Everyone:
+	I think probably providing the summary of votes and the beginning, and then leading the conversation like the collective voting seems different from yours, would you like to learn about the reasoning behind each options?
+	sbaez:👍
+	
+2026-03-16 17:45:47 From Ann to Everyone:
+	If I were using this this week, I'd use the results to set up circl groups with divergent approaches and depth of arguement per group, then have them build reasoning to share with other groups.
+	Elianna DeSota:❤️
+	Artem Zhiganov:💡
+	
+2026-03-16 17:46:14 From Raluca Pavel to Everyone:
+	It was interesting that it was also giving us the opinions of others who agreed with us, not just those who maybe had differing opinions.
+	
+2026-03-16 17:47:56 From Adam Zable to Everyone:
+	you also don't necessarily want to show people how others have voted to avoid them going for the choices that are already winning
+	
+2026-03-16 17:48:35 From fybach to Everyone:
+	I have to leave now. Thanks for organizing and participating!
+	
+2026-03-16 17:48:42 From sbaez to Everyone:
+	Did anyone try asking the bot what most people chose?
+	Adam Zable:😳
+	
+2026-03-16 17:48:46 From Adam Zable to Everyone:
+	i could definitely imagine combining this approach with other established approaches to make it even more powerful, as several people have mentioned. very cool tool :)
+	Artem Zhiganov:❤️
+	
+2026-03-16 17:49:00 From fybach to Everyone:
+	Replying to "Did anyone try asking the bot what most people cho...":
+	It didn’t want to tell me
+	
+2026-03-16 17:49:17 From Renad Baomar to Everyone:
+	Replying to "Did anyone try asking the bot what most people cho...":
+	No i didn’t but it told me some of the ideas
+	
+2026-03-16 17:49:19 From Adam Zable to Everyone:
+	Replying to "Did anyone try asking the bot what most people cho...":
+	did anyone try to break the bot
+	
+2026-03-16 17:49:42 From fybach to Everyone:
+	Replying to "Did anyone try asking the bot what most people cho...":
+	@Adam Zable I tried but it was quite resistant
+	Adam Zable:👍
+	Artem Zhiganov:😎
+	
+2026-03-16 17:50:12 From Jez to Everyone:
+	Another thing that seems interesting to me - what would it take to change my mind on a decision vs hearing statements that I fully agree with but don’t quite hit strongly enough to change my mind. Feels like there might be an emotional or felt part to this too, the gut feel aspect of decision making, I wonder if there’s a way to capture this somehow in the design
+	Elianna DeSota, Ann:❤️
+	Artem Zhiganov:💡
+	
+2026-03-16 17:50:16 From Ann to Everyone:
+	How is different language style accomodated?  Some people are just way more emphatic and aggessive than others...
+	
+2026-03-16 17:52:55 From Elianna DeSota to Everyone:
+	Replying to "Another thing that seems interesting to me - what ...":
+	Yah - I noticed this. And also tended to have too little info to really change/make a decision. Like - yes! Trees are lovely and super impacted by 10$… (But are they really more impacted by 10 than food redistribution?) and my priority is still…
+	Jez:❤️
+	
+2026-03-16 17:53:22 From Adam Zable to Everyone:
+	lets get to the point- who won?
+	Elianna DeSota:😁
+	Rob Gordon, Joseph:😂
+	
+2026-03-16 17:54:58 From Ann to Everyone:
+	I am going to sign off, we are having a big thunderstorm here and my battery is not that great.  Nice job making this tool and I'm eager to hear more about it!
+	Artem Zhiganov:❤️
+	
+2026-03-16 17:56:01 From Adam Zable to Everyone:
+	maybe my mind is just very influenceable because the comments did change my vote
+	Elianna DeSota:🔥
+	
+2026-03-16 17:57:18 From Iris to Everyone:
+	I think it will be helpful if we can make it clear at the beginning how the collective decsison will be made. If I know that this is just a round of collecting everyone's opinion and then the most voted choice will be picked in the end, then I will be less curisous about others' choice but for towards to make sure my own ranking makes sense
+	
+2026-03-16 17:58:12 From Adam Zable to Everyone:
+	i could see it being used within an organization
+	Artem Zhiganov, Elianna DeSota:🙌
+	
