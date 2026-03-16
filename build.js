@@ -121,7 +121,7 @@ function loadSessions() {
     const slug = basename(file, '.md');
 
     return { file, slug, frontmatter, body, sections, votes, quotes };
-  }).sort((a, b) => (b.frontmatter.date || '').localeCompare(a.frontmatter.date || ''));
+  }).sort((a, b) => String(b.frontmatter.date || '').localeCompare(String(a.frontmatter.date || '')));
 }
 
 // --- Build ---
