@@ -1,0 +1,43 @@
+name: Sync & Build
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Sync sessions from Harmonica
+        env:
+          HARMONICA_API_KEY: ${{ secrets.HARMONICA_API_KEY }}
+        run: npx harmonica-sync
+
+      - name: Commit and push synced sessions
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add _sessions/
+          git diff --cached --quiet || (git commit -m "sync: update sessions from Harmonica" && git push)
+
+      - name: Build site
+        run: node build.js
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
