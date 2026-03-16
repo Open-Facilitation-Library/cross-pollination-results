@@ -1,0 +1,12 @@
+{
+  "sync": {
+    "search": ["Cross-Pollination", "Donation Collective Choice"],
+    "minParticipants": 1,
+    "requireSummary": true
+  },
+  "output": {
+    "dir": "_sessions",
+    "filename": "{{date}}-{{slug}}.md",
+    "template": "./session-template.md"
+  }
+}
