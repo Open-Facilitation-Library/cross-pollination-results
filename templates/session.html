@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{title}} — Cross-Pollination Results</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <div class="wrap">
+    <header>
+      <span class="logo"><a href="../">Cross-Pollination Results</a></span>
+      <span class="status-badge {{status}}">{{status}}</span>
+    </header>
+  </div>
+
+  <!-- Quick Nav -->
+  <nav class="quick-nav">
+    <div class="wrap" style="display:flex;gap:1.6rem;padding:0;">
+      <a href="#question">Question</a>
+      <a href="#results">Results</a>
+      {{#sections}}
+      <a href="#{{id}}">{{heading}}</a>
+      {{/sections}}
+      <a href="#methodology">How it works</a>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <div class="wrap">
+    <section class="hero">
+      <span class="eyebrow">Experiment Results</span>
+      <h1>{{title}}</h1>
+      <div class="meta">
+        <span>{{participants}} participants</span>
+        <span>{{date}}</span>
+      </div>
+    </section>
+  </div>
+
+  <!-- The Question -->
+  <div class="wrap" id="question">
+    <div class="question-block">
+      <span class="question-label">The Question</span>
+      <div class="question-text">{{goal}}</div>
+    </div>
+  </div>
+
+  <!-- Key Results -->
+  <div class="wrap" id="results">
+    <span class="section-label">Key Results</span>
+
+    {{#has_votes}}
+    <div class="vote-bars">
+      {{#votes}}
+      <div class="vote-bar">
+        <span class="vote-label">{{name}}</span>
+        <div class="vote-track">
+          <div class="vote-fill" style="--pct: {{percent}}%"></div>
+        </div>
+        <span class="vote-percent">{{percent}}%</span>
+      </div>
+      {{/votes}}
+    </div>
+    {{/has_votes}}
+
+    {{^has_votes}}
+    <div class="details-body fade-up-1">
+      {{{first_section_html}}}
+    </div>
+    {{/has_votes}}
+  </div>
+
+  <!-- Summary Sections -->
+  <div class="wrap">
+    <span class="section-label">Detailed Findings</span>
+
+    {{#sections}}
+    <details class="details-card" {{#first}}open{{/first}} id="{{id}}">
+      <summary>{{heading}}</summary>
+      <div class="details-body">
+        {{{content_html}}}
+      </div>
+    </details>
+    {{/sections}}
+  </div>
+
+  <!-- Opinion Shift (paired sessions) -->
+  {{#has_pair}}
+  <div class="wrap">
+    <span class="section-label">Opinion Shift</span>
+    <div class="question-block">
+      <span class="question-label">
+        {{#is_phase1}}Phase 2 Available{{/is_phase1}}
+        {{^is_phase1}}Phase 1 Available{{/is_phase1}}
+      </span>
+      <div class="question-text">
+        This session is part of a paired cross-pollination experiment.
+        <a href="../{{pair_slug}}/">View {{pair_title}}&nbsp;&rarr;</a>
+      </div>
+    </div>
+  </div>
+  {{/has_pair}}
+
+  <!-- Methodology -->
+  <div class="wrap" id="methodology">
+    <span class="section-label">How Cross-Pollination Works</span>
+    <div class="steps">
+      <div class="step" data-num="1">
+        <span class="step-phase">Phase 1</span>
+        <h3>Share your view</h3>
+        <p>Participants answer the question independently, without seeing others' responses.</p>
+      </div>
+      <div class="step" data-num="2">
+        <span class="step-phase">Between</span>
+        <h3>Ideas collected</h3>
+        <p>An AI facilitator synthesizes all responses into key themes and perspectives.</p>
+      </div>
+      <div class="step" data-num="3">
+        <span class="step-phase">Phase 2</span>
+        <h3>Hear others</h3>
+        <p>Participants see the synthesis and respond — updating, refining, or reaffirming their views.</p>
+      </div>
+      <div class="step" data-num="4">
+        <span class="step-phase">Outcome</span>
+        <h3>Collective picture</h3>
+        <p>The final synthesis captures where the group aligns, disagrees, and what shifted.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <div class="wrap">
+    <div class="note">
+      Session {{session_id}}<br>
+      Powered by <a href="https://harmonica.chat">Harmonica</a> &middot;
+      Method from <a href="https://ofl.wiki">Open Facilitation Library</a> &middot;
+      Follow on <a href="https://harmonicabot.substack.com">Substack</a>
+    </div>
+  </div>
+
+</body>
+</html>
