@@ -120,7 +120,8 @@ function loadSessions() {
   const files = readdirSync(SESSIONS_DIR).filter(f => f.endsWith('.md'));
   return files.map(file => {
     const raw = readFileSync(join(SESSIONS_DIR, file), 'utf-8');
-    const { data: frontmatter, content: body } = matter(raw);
+    const { data: frontmatter, content: rawBody } = matter(raw);
+    const body = rawBody.replace(/\r\n/g, '\n');
     const sections = extractSections(body);
     const votes = extractVotes(body);
     const quotes = extractQuotes(body);
@@ -152,7 +153,7 @@ function build() {
       participants: session.frontmatter.participants,
       status: session.frontmatter.status,
       goal: session.frontmatter.goal || '',
-      sections: session.sections,
+      sections: session.sections.map((s, i) => ({ ...s, first: i === 0 })),
       first_section_html: session.sections[0]?.content_html || '',
       votes: session.votes,
       has_votes: session.votes.length > 0,

@@ -90,6 +90,16 @@
     {{/sections}}
   </div>
 
+  <!-- Notable Quotes -->
+  {{#has_quotes}}
+  <div class="wrap">
+    <span class="section-label">Notable Quotes</span>
+    {{#quotes}}
+    <blockquote class="quote-block">{{{text}}}</blockquote>
+    {{/quotes}}
+  </div>
+  {{/has_quotes}}
+
   <!-- Opinion Shift (paired sessions) -->
   {{#has_pair}}
   <div class="wrap">
