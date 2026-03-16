@@ -537,6 +537,19 @@ header {
   vertical-align: middle;
 }
 
+/* --- Quote Block --- */
+
+.quote-block {
+  background: var(--surface);
+  border-left: 3px solid var(--accent-secondary);
+  padding: 1.2rem 1.6rem;
+  margin: 1rem 0;
+  font-size: 0.95rem;
+  font-style: italic;
+  color: var(--text-dim);
+  line-height: 1.65;
+}
+
 /* --- Note / Footer --- */
 
 .note {
