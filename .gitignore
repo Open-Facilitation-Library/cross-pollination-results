@@ -1,2 +1,5 @@
 node_modules/
 dist/
+
+# Zoom chat exports carry participant names, contact details and DMs; never commit them
+meeting_saved*.txt
