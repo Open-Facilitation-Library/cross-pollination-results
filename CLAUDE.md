@@ -45,6 +45,8 @@ Single-file build script (ESM). Reads `_sessions/*.md`, extracts structured data
 - **Pair detection relies on P1/P2 naming convention** in session topics (e.g., "P1 Donation Collective Choice" / "P2 Donation Collective Choice"). Not enforced by Harmonica.
 - **Vote extraction is best-effort** with 3 regex patterns. Falls back to rendering first section as-is when no percentages found.
 - **Session template conditionally renders Opinion Shift section** only when `has_pair` is true.
+- **No raw participant transcripts on the site.** `session-template.md` deliberately excludes the `{{#responses}}` block. Only AI-generated summaries are public.
+- **`minParticipants: 5`** in `harmonica.config.json` filters out test sessions (which have 1 participant).
 
 ### Templates
 
